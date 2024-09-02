@@ -19,4 +19,4 @@ NeetCode 150 Data Structures and Algorithms problems in Python ❤
 |  11    | [Two Integer Sum II](https://github.com/yash872/PyDsa_NeetCode/blob/main/Array_and_Hashing/Two_Integer_Sum_II.py)|  Two Pointers   |
 |  12    | [3Sum](https://github.com/yash872/PyDsa_NeetCode/blob/main/Array_and_Hashing/3Sum.py)|  Two Pointers   |
 |  13    | [Container Wit Most Water](https://github.com/yash872/PyDsa_NeetCode/blob/main/Array_and_Hashing/Container_With_Most_Water.py)|  Two Pointers   |
-|  14    | [Container Wit Most Water](https://github.com/yash872/PyDsa_NeetCode/blob/main/Array_and_Hashing/Container_With_Most_Water.py)|  Two Pointers   |
+|  14    | [Trapping Rain Water](https://github.com/yash872/PyDsa_NeetCode/blob/main/Array_and_Hashing/Trapping_Rain_Water.py)|  Two Pointers   |
