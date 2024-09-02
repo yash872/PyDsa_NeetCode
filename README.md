@@ -6,6 +6,6 @@ NeetCode 150 Data Structures and Algorithms problems in Python ❤
 
 |  No.  |                                           Problem                                                                      |  Topic   | 
 | ----- | ---------------------------------------------------------------------------------------------------------------------- | -------- |
-|  1    | [Contains Duplicate](https://github.com/yash872/PyDsa_NeetCode/blob/main/Array and Hashing/Contains_Duplicate.py)             |  Array   |
+|  1    | [Contains Duplicate]("https://github.com/yash872/PyDsa_NeetCode/blob/main/Array and Hashing/Contains_Duplicate.py")             |  Array   |
 |  2    | [Sort_Colors](https://github.com/yash872/PyDsa/blob/main/Array/Sort_Colors.py)                                         |  Array   |
 |  3    | [Find_Missing_And_Repeating](https://github.com/yash872/PyDsa/blob/main/Array/Find_Missing_And_Repeating.py)           |  Array   |
