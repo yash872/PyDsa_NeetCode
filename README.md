@@ -26,3 +26,17 @@ NeetCode 150 Data Structures and Algorithms problems in Python ❤
 |  18   | [Minimum Window Substring](https://github.com/yash872/PyDsa_NeetCode/blob/main/Sliding_Window/Minimum_Window_With_Characters.py)|  Sliding Window   |
 |  19   | [Permutation In String](https://github.com/yash872/PyDsa_NeetCode/blob/main/Sliding_Window/Permutation_String.py)|  Sliding Window   |
 |  20   | [Sliding Window Maximum](https://github.com/yash872/PyDsa_NeetCode/blob/main/Sliding_Window/Sliding_Window_Maximum.py)|  Sliding Window   |
+|  21   | [Valid Parentheses](https://github.com/yash872/PyDsa_NeetCode/blob/main/Stack/Valid_Parentheses.py)|  Stack   |
+|  22   | [Min Stack](https://github.com/yash872/PyDsa_NeetCode/blob/main/Stack/Min_Stack.py)|  Stack   |
+|  23   | [Evaluate Reverse Polish Notation](https://github.com/yash872/PyDsa_NeetCode/blob/main/Stack/Evaluate_Reverse_Polish_Notation.py)|  Stack   |
+|  24   | [Generate Parentheses](https://github.com/yash872/PyDsa_NeetCode/blob/main/Stack/Generate_Parentheses.py)|  Stack   |
+|  25   | [Daily Temperatures](https://github.com/yash872/PyDsa_NeetCode/blob/main/Stack/Daily_Temperatures.py)|  Stack   |
+|  26   | [Car Fleet](https://github.com/yash872/PyDsa_NeetCode/blob/main/Stack/Car_Fleet.py)|  Stack   |
+|  27   | [Largest Rectangle In Histogram](https://github.com/yash872/PyDsa_NeetCode/blob/main/Stack/Largest_Rectangle_In_Histogram.py)|  Stack   |
+|  28   | [Binary Search](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Binary_Search.py)|  Binary Search   |
+|  29   | [Search 2D Matrix](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Search_2D_Matrix.py)|  Binary Search   |
+|  30   | [Koko Eating Bananas](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Eating_Bananas.py)|  Binary Search   |
+|  31   | [Find Minimum in Rotated Sorted Array](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Find_Minimum_in_Rotated_Sorted_Array.py)|  Binary Search   |
+|  32   | [Search In Rotated Sorted Array](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Find_Target_in_Rotated_Sorted_Array.py)|  Binary Search   |
+|  33   | [Time Based Key Value Store](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Time_Based_Key_Value_Store.py)|  Binary Search   |
+|  34   | [Median of Two Sorted Arrays](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Median_of_Two_Sorted_Arrays.py)|  Binary Search   |
