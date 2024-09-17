@@ -40,3 +40,13 @@ NeetCode 150 Data Structures and Algorithms problems in Python ❤
 |  32   | [Search In Rotated Sorted Array](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Find_Target_in_Rotated_Sorted_Array.py)|  Binary Search   |
 |  33   | [Time Based Key Value Store](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Time_Based_Key_Value_Store.py)|  Binary Search   |
 |  34   | [Median of Two Sorted Arrays](https://github.com/yash872/PyDsa_NeetCode/blob/main/Binary_Search/Median_of_Two_Sorted_Arrays.py)|  Binary Search   |
+|  35   | [Reverse Linked List](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Reverse_Linked_List.py)|  Linked List   |
+|  36   | [Merge Two Sorted Lists](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Merge_Two_Sorted_Lists.py)|  Linked List   |
+|  37   | [Reorder List](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Reorder_List.py)|  Linked List   |
+|  38   | [Remove Nth Node From End of List](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Remove_Nth_Node_From_End_of_List.py)|  Linked List   |
+|  39   | [Copy List With Random Pointer](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Copy_List_With_Random_Pointer.py)|  Linked List   |
+|  40   | [Add Two Numbers](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Add_Two_Numbers.py)|  Linked List   |
+|  41   | [Linked List Cycle](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Linked_List_Cycle.py)|  Linked List   |
+|  42   | [Find The Duplicate Number](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Find_The_Duplicate_Number.py)|  Linked List   |
+|  43   | [Merge K Sorted Lists](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Merge_K_Sorted_Lists.py)|  Linked List   |
+|  44   | [Reverse Nodes In K Group](https://github.com/yash872/PyDsa_NeetCode/blob/main/LinkedList/Reverse_Nodes_In_K_Group.py)|  Linked List   |
